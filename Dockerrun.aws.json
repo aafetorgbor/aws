@@ -1,0 +1,8 @@
+{
+  "AWSEBDockerrunVersion": "3",
+  "Authentication": {
+    "Bucket" : "eb-docker",
+    "Key" : "docker.zip"
+  }
+  
+}
